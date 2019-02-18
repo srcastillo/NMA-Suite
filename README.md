@@ -12,7 +12,7 @@ Contact: santiago.restrepo66@eia.edu.co
 
 Hey guys! These are all the codes that I've been using. My thesis was only really two of these codes, the other pieces of code I wrote after defending. Find short descriptions of the codes below:
 
-Elastic Network Model-based Normal Mode Analysis: This is the most important code of all. This algorithm allows you to find the natural frequencies and normal modes of vibration of a biomolecule with a known crystal structure. All you need is the PDB file of the molecule and assign certain parameters (explained in the code).
+Elastic Network Model-based Normal Mode Analysis: This is the most important code. This algorithm allows you to find the natural frequencies and normal modes of vibration of a biomolecule with a known crystal structure. All you need is the PDB file of the molecule and assign certain parameters (explained in the code).
 
 Normal modes animator: This algorithm allows to animate any available normal modes of vibration of a biomolecule previously analyzed via normal mode analysis.
 
