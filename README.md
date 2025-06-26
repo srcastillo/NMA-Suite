@@ -2,7 +2,7 @@
 
 Author: Santiago Restrepo-Castillo
 
-Hi folks! These are the codes I wrote during my undergraduate studies in Biomedical Engineering at Universidad EIA (Medellín, Colombia). I am currently a graduate student at the Mayo Clinic Graduate School of Biomedical Sciences (Rochester, MN, USA), pursuing a Ph.D. in Virology and Gene Therapy. I can be reached at my professional email address: restrepocastillo.santiago@mayo.edu. Find short descriptions of the codes below.
+Hi folks! These are the codes I wrote during my undergraduate studies in Biomedical Engineering at Universidad EIA (Medellín, Colombia). I completed my PhD in Virology and Gene Therapy at Mayo Clinic (Rochester, MN, US), and I am currently a postdoctoral fellow at Dell Medical School (Austin, TX, USA). I can be reached at my professional email address: santiago.restrepocastillo@austin.utexas.edu. Find short descriptions of the codes below.
 
 Elastic Network Model-based Normal Mode Analysis: This is the most important code. This algorithm allows you to find the natural frequencies and normal modes of vibration of a biomolecule with a known crystal structure. All you need is the PDB file of the molecule and to assign certain parameters (explained in the code).
 
