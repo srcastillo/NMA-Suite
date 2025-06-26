@@ -1,6 +1,6 @@
 # Computational Biophysics
 
-Author: Santiago Restrepo-Castillo
+Author: Santiago Restrepo Castillo, Ph.D.
 
 Hi folks! These are the codes I wrote during my undergraduate studies in Biomedical Engineering at Universidad EIA (Medellín, Colombia). I completed my PhD in Virology and Gene Therapy at Mayo Clinic (Rochester, MN, US), and I am currently a postdoctoral fellow at Dell Medical School (Austin, TX, USA). I can be reached at my professional email address: santiago.restrepocastillo@austin.utexas.edu. Find short descriptions of the codes below.
 
